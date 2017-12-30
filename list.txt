@@ -1,4 +1,4 @@
-FOO
-bar
-baz
-qux
+1. FOO
+2. bar
+3. baz
+4. qux
